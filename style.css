@@ -1,0 +1,25 @@
+.ribon ul li a{
+    margin-right:50PX;
+    padding: 10PX;
+}
+ul{
+    Margin:0px;
+    padding:0px;
+    Text-align:Center;
+    overflow: hidden;
+}
+ul li{
+    display: inline-block;
+    padding: 5px 10px;
+    Margin:0px;
+    float: left;
+}
+ul li a{
+    text-align: center;
+    text-decoration:none;
+    color:white; 
+}
+ul li:hover{
+    Background-color:Red;
+}
+
